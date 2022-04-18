@@ -1,0 +1,8 @@
+.country-container{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+.country-container img{
+    width: 150px;
+}
